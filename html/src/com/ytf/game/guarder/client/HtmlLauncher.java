@@ -3,7 +3,7 @@ package com.ytf.game.guarder.client;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.ytf.game.guarder.GuarderMain;
+import com.ytf.game.guarder.core.main.GuarderMain;
 
 /**
  * Package: com.ytf.game.guarder.android

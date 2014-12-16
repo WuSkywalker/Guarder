@@ -2,7 +2,7 @@ package com.ytf.game.guarder.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.ytf.game.guarder.GuarderMain;
+import com.ytf.game.guarder.core.main.GuarderMain;
 
 /**
  * Package: com.ytf.game.guarder.android
